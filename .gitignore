@@ -1,0 +1,9 @@
+build/
+*.app
+*.ipa
+*.log
+*.xcodeproj
+xcuserdata/
+Sources/Info.plist
+releases/
+.DS_Store
